@@ -1,5 +1,6 @@
 working on projects to learn python and C++
-email avry@pm.me
+
+email me at avry@pm.me
 
 <!---
 graevy/graevy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
