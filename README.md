@@ -1,4 +1,4 @@
-working on projects to learn better python, C++, and rust!
+working on projects to learn better python, C++, and rust
 
 email me at avry@pm.me
 
