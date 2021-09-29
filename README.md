@@ -1,4 +1,5 @@
-working on projects to learn better python, C++, and rust
+working on projects to learn better python and rust
+interested in ML frameworks and algorithm design
 
 email me at avry@pm.me
 
